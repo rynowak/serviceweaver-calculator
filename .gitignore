@@ -4,6 +4,10 @@
 *.dll
 *.so
 *.dylib
+serviceweaver-calculator
+
+# node
+node_modules/
 
 # Test binary, built with `go test -c`
 *.test

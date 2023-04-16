@@ -1,0 +1,5 @@
+[serviceweaver]
+binary = "./serviceweaver-calculator"
+
+[github.com/rynowak/serviceweaver-calculator/pkg/calculator]
+FailureRate = 0.5
